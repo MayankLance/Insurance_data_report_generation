@@ -47,5 +47,3 @@ Channel vs Product Heatmap
 The data generated is fake and for demo purposes only.
 
 All visualizations are saved directly into a multi-page PDF.
-
-The project does not overwrite the Excel file unless you rerun the generator.
